@@ -1,0 +1,10 @@
+{
+  "name": "gpt-alerts-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.3",
+    "resend": "^3.2.0"
+  }
+}
